@@ -1,4 +1,4 @@
 # Indian-Monsoon-Rainfall
-The C++ and Python codes for forecasting the amount of Indian Monsoon Rainfall.
+The C++ and Python codes used for the analysis of the paper "Network-based Approach and Climate Change Benefits for Forecasting the Amount of Indian Monsoon Rainfall".
 
-All codes will be uploaded soon.
+More details will be added soon.
